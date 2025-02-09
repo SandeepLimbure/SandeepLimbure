@@ -4,7 +4,9 @@
 🌱 Currently diving deep into Spring Boot, Microservices, and Cloud Deployment.
 🔍 Exploring AI, IoT, and ML integration in real-world applications.
 🤝 Open to collaborations on Spring Boot, React, and AI-driven projects.
-📫 Reach me at: [www.linkedin.com/in/sandeep-l-54a1a6260]
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/sandeep-l-54a1a6260)
+
+
 📌 Tech Stack
 🔹 Backend
 Java | Spring Boot | Hibernate | REST APIs | Microservices
